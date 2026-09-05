@@ -1,0 +1,16 @@
+name = "pizza-no-forninho"
+compatibility_date = "2026-09-04"
+
+[assets]
+directory = "./"
+not_found_handling = "single-page-application"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "pizza-no-forninho"
+database_id = "COLOQUE-O-ID-DO-D1-AQUI"
+
+# Opcional, para upload de fotos no futuro:
+# [[r2_buckets]]
+# binding = "MEDIA"
+# bucket_name = "pizza-no-forninho-media"
