@@ -7,8 +7,8 @@ not_found_handling = "single-page-application"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "pizza-no-forninho"
-database_id = "COLOQUE-O-ID-DO-D1-AQUI"
+database_name = "pizza-ni-forninho-db"
+database_id = "730c99c0-f213-4790-8469-ea4219a66665"
 
 # Opcional, para upload de fotos no futuro:
 # [[r2_buckets]]
